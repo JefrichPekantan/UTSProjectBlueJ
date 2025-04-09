@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SchoolWindow
+comment1.params=school
+comment1.target=SchoolWindow(model.School)
+comment2.params=
+comment2.target=void\ setup()
+comment3.params=school
+comment3.target=void\ build(model.School)
+numComments=4
